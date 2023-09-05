@@ -1,0 +1,29 @@
+{
+    "name": "Falcom Heardle",
+    "short_name": "Falcom Heardle",
+    "icons": [
+      {
+        "src": "https://cdn.glitch.global/7c251d1a-265b-4466-882c-f0ece961078a/preview_192x192.png?v=1650128557801",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.global/7c251d1a-265b-4466-882c-f0ece961078a/preview%20(2).png?v=1650130702999",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.global/7c251d1a-265b-4466-882c-f0ece961078a/preview_32x32.png?v=1650139810777",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "https://cdn.glitch.global/7c251d1a-265b-4466-882c-f0ece961078a/preview_16x16.png?v=1650128555113",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+  }
