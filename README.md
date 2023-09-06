@@ -3,7 +3,7 @@
 A Heardle application for Falcom's franchises' soundtrack, including Ys and Trails
 
 - Based on the original [Heardle](https://www.heardle.app) website, where you guess a random song from its intro in as little tries as possible. Source code originally provided by [WJSN Heardle](https://github.com/jeroldcamacho/wjsn-heardle)
-- Used to be hosted at [Glitch](https://glitch.com/) back in 2022, where it amassed a fair amount of popularity and attention from the community surrounding Falcom games
+- *Used* to be [hosted](https://falcom-heardle.glitch.me) at [Glitch](https://glitch.com/) back in 2022, where it amassed a fair amount of popularity and attention from the community surrounding Falcom games
 
 Example going around in Twitter:
 
